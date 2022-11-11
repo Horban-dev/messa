@@ -8,7 +8,7 @@ const Chat = ({
 }) => (
         <div className={ct.chat}>
             <div className={ct.chat_header}>
-                <img className={ct.avatar} src={headerLogo} alt="avatar" />
+                <img className={ct.avatar} src={headerLogo} alt="avatar_alt" />
                 <span className={ct.name}>{headerName}</span>
             </div>
             <Messages chatAvatar={chatAvatar} messageInChat={messageInChat} myAnswer={myAnswer}/>
