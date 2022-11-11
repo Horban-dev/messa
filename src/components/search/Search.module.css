@@ -1,0 +1,8 @@
+.search_panel {
+    border-radius: 15px;
+    border: 1px solid darkgrey;
+    height: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 0 10px 5px 10px;
+}
